@@ -33,7 +33,7 @@
 <div align="center">
 </br>
   
-![](https://github-profile-trophy.vercel.app/?username=pgredys&theme=gruvbox&no-frame=false&no-bg=false&title=Joined2020,Commits,Experience,Stars,Followers&margin-w=15&margin-h=15)
+![](https://github-profile-trophy.vercel.app/?username=pgredys&theme=gruvbox&no-frame=false&no-bg=false&title=Joined2020,Commits,Experience,Stars,Followers&margin-w=15)
 
 
 </div>
