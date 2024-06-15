@@ -19,6 +19,7 @@
 
 <div align="center">
 </br> 
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pgredys&theme=gruvbox&hide_border=false)<br/> 
 </br>
 
@@ -30,7 +31,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-</br>
+
 ![](https://github-profile-trophy.vercel.app/?username=pgredys&theme=gruvbox&no-frame=false&no-bg=false&title=Joined2020,Commits,Experience,Stars,Followers)
 </div>
 
