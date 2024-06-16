@@ -2,6 +2,7 @@
 
 <h3 align="center">Programmer, M. Eng.</h3>
 
+
 🌱 I’m currently learning Algorithms, ML<br>📫 How to reach me gredys.przemyslaw@outlook.com
 
  
