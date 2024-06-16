@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Przemysław Grędys</h1>
-
 <h3 align="center">Programmer, M. Eng.</h3>
 
 
