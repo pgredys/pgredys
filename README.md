@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Przemysław Grędys</h1>
-</br>
 <h3 align="center">Programmer, M. Eng.</h3>
-
 </br>
 
 🌱 I’m currently learning Algorithms, ML, and Backend Development, and Robotics <br>📫 How to reach me: gredys.przemyslaw@outlook.com
