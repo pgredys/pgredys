@@ -3,6 +3,7 @@
 </br>
 
 🌱 I’m currently learning Algorithms, ML, and Backend Development, and Robotics 
+
 </br>
 📫 How to reach me: gredys.przemyslaw@outlook.com
 
