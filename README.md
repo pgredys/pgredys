@@ -2,7 +2,7 @@
 <h3 align="center">Programmer, M. Eng.</h3>
 </br>
 
-🌱 I’m currently learning Algorithms, ML, and Backend Development, and Robotics 
+🌱 I’m currently learning Algorithms, ML, Backend Development, and Robotics 
 
 </br>
 📫 How to reach me: gredys.przemyslaw@outlook.com
