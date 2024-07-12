@@ -22,7 +22,6 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-</br> 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pgredys&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/> 
 </br>
